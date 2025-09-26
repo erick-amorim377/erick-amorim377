@@ -13,7 +13,7 @@ Meu objetivo é aprimorar minhas habilidades de programação, colaborar com out
 ### Obrigado por visitar!
 
 Agradeço por passar por aqui e fazer parte da minha jornada de aprendizado. Vamos aprender e crescer juntos no mundo da programação. 🚀
-Lembre-se de personalizar essa descrição com suas próprias informações e adicionar 
+
 
 
 <div>  
